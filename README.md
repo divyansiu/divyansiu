@@ -68,7 +68,7 @@ My approach is practical: build something small, understand why it works, debug 
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://similarpng.com/_next/image/?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fthumbnail%2Fthumbnail-dd491822-a121-41c0-93f7-7fcffd0f6257.png&w=3840&q=75" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-11161C?style=flat-square&logo=linkedin&logoColor=75E6C1" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:your.email@gmail.com">
