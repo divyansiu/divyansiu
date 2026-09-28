@@ -68,12 +68,7 @@ My approach is practical: build something small, understand why it works, debug 
 </a>
 
 <a href="https://www.linkedin.com/in/divyansiu/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/linkedin.png"
-    width="32"
-    height="32"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-11161C?style=flat-square&logo=linkedin&logoColor=75E6C1" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:divyanshukhandelwal07@gmail.com">
