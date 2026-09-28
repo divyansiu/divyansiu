@@ -67,11 +67,16 @@ My approach is practical: build something small, understand why it works, debug 
   <img src="https://img.shields.io/badge/GitHub-11161C?style=flat-square&logo=github&logoColor=F3F5F7" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-11161C?style=flat-square&logo=linkedin&logoColor=75E6C1" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/divyansiu/" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons-png@latest/icons/linkedin.png"
+    width="32"
+    height="32"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:divyanshukhandelwal07@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-11161C?style=flat-square&logo=gmail&logoColor=D89B63" alt="Gmail"/>
 </a>
 
