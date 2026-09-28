@@ -1,0 +1,81 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Divyanshu — Backend Engineering and Applied AI</title>
+  <desc id="desc">A dark, minimal engineering-themed hero with a restrained animated signal grid.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1014"/>
+      <stop offset="1" stop-color="#11181D"/>
+    </linearGradient>
+
+    <linearGradient id="signal" x1="760" y1="30" x2="1160" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75E6C1" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#D89B63" stop-opacity=".05"/>
+    </linearGradient>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#E8EEF2" stroke-opacity=".055"/>
+    </pattern>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="rounded">
+      <rect width="1200" height="420" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+
+    <path d="M-30 330C170 280 260 390 440 325C610 263 655 140 810 185C935 222 1000 130 1230 95"
+          stroke="url(#signal)" stroke-width="2" fill="none" opacity=".9">
+      <animate attributeName="stroke-dashoffset" from="0" to="-900" dur="11s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M690 420C750 300 720 210 805 150C875 100 950 145 1010 72C1045 30 1100 18 1240 -8"
+          stroke="#75E6C1" stroke-opacity=".16" stroke-width="1.5" fill="none">
+      <animate attributeName="opacity" values=".10;.28;.10" dur="5s" repeatCount="indefinite"/>
+    </path>
+
+    <circle cx="805" cy="150" r="4" fill="#75E6C1" filter="url(#glow)">
+      <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1010" cy="72" r="3" fill="#D89B63" filter="url(#glow)">
+      <animate attributeName="r" values="2;5;2" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".35;.9;.35" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="58" y="58" width="5" height="92" rx="2.5" fill="#75E6C1"/>
+    <text x="86" y="91" fill="#75E6C1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2">DIVYANSIU / BUILDING</text>
+
+    <text x="86" y="160" fill="#F3F5F7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="700">
+      Backend engineering
+    </text>
+    <text x="86" y="214" fill="#F3F5F7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="700">
+      with an AI direction.
+    </text>
+
+    <text x="88" y="267" fill="#AEB8BE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17">
+      Python · FastAPI · APIs · databases · applied AI
+    </text>
+
+    <g transform="translate(88 318)">
+      <rect width="300" height="38" rx="19" fill="#151E23" stroke="#75E6C1" stroke-opacity=".24"/>
+      <circle cx="20" cy="19" r="5" fill="#75E6C1">
+        <animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="36" y="25" fill="#C8D0D5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">learn → build → debug → repeat</text>
+    </g>
+
+    <text x="1112" y="388" text-anchor="end" fill="#68747B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">01 / 01</text>
+  </g>
+</svg>

@@ -1,222 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=DIVYANSHU&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Backend%20Development%20%7C%20Python%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Backend+Developer+in+Progress;Python+%7C+FastAPI+%7C+REST+APIs;Node.js+%7C+Express+%7C+MongoDB;Building+%E2%86%92+Debugging+%E2%86%92+Learning;Exploring+AI+%26+LLM+Integration" alt="Typing animation"/>
-
-<br><br>
-
 <a href="https://github.com/divyansiu">
-  <img src="https://img.shields.io/badge/GitHub-divyansiu-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="./assets/hero.svg" alt="Divyanshu — Backend Engineering and Applied AI" width="100%"/>
 </a>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=divyansiu&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views"/>
+**B.Tech CSE student · Backend Engineering · Applied AI**
+
+I learn by building, breaking, debugging, and rebuilding — with a current focus on **Python → FastAPI → APIs → databases → AI/LLM integration**.
+
+<br/>
+
+<a href="https://github.com/divyansiu?tab=repositories">Repositories</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/divyansiu?tab=projects">Projects</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/divyansiu">GitHub</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## Current focus
 
-I'm **Divyanshu**, a B.Tech Computer Science student focused on becoming a **Backend Software Engineer**.
+I’m building the fundamentals that sit underneath reliable software:
 
-I enjoy learning by building practical projects, debugging real problems, and understanding how software works behind the scenes.
+- **Backend:** Python, FastAPI, REST APIs
+- **Data:** MongoDB, SQL
+- **Engineering:** Git/GitHub, debugging, deployment
+- **Exploration:** AI / LLM integration and automation
 
-### Currently focused on
-
-- 🐍 Python & backend development
-- ⚡ FastAPI & REST APIs
-- 🟢 Node.js & Express
-- 🗄️ MongoDB & SQL
-- 🤖 AI / LLM integration
-- 🔧 Git & GitHub collaboration
-- 🚀 Building projects through hackathons and hands-on practice
-
-> **Build → Debug → Learn → Improve**
+My approach is practical: build something small, understand why it works, debug what breaks, then make the next version better.
 
 ---
 
-## ⚡ Tech Stack
+## Stack
 
 ### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,javascript" alt="Python and JavaScript" height="42"/>
 </p>
 
-### Backend & APIs
-
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman&perline=4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, and FastAPI" height="42"/>
 </p>
 
-### Databases
-
+### Web
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS" height="42"/>
 </p>
 
-### Tools & Environment
-
+### Databases & tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" alt="MongoDB, MySQL, Git, and GitHub" height="42"/>
 </p>
+
+**Exploring:** AI / LLM integration · automation · deeper backend architecture
 
 ---
 
-## 🚀 Featured Projects
+## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What I worked on |
+| --- | --- |
+| **Matrvaani** | AI-powered, offline-first vernacular education concept for tribal-language learning. Focused on practical deployment constraints, speech/language technology, and AI-assisted learning. |
+| **Malicious File Analyzer** | File-processing and backend-related work for a malicious-file analysis pipeline, with QA/testing collaboration. |
+| **Expense Tracker** | Full-stack practice project covering REST APIs, frontend/backend communication, CORS, Git branches, and GitHub collaboration. |
+| **Event Management System** | Node.js/Express backend with MongoDB/Mongoose, REST APIs, environment variables, and backend debugging. |
 
-### 🗣️ MATRVAANI
-
-Offline-first AI-powered vernacular learning concept for tribal-language education.
-
-**Focus**
-- AI-assisted language learning
-- Vernacular education
-- Offline-first architecture
-- Speech & language technology
-
-**Context:** Smart India Hackathon
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Malicious File Analyzer
-
-Security-focused project for processing and analyzing potentially malicious files.
-
-**My focus**
-- File processing
-- Analysis pipeline
-- Backend logic
-- Security-oriented workflows
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Expense Tracker
-
-Full-stack practice project for learning frontend/backend communication and Git collaboration.
-
-**Stack:** HTML • CSS • JavaScript • Node.js • Express
-
-</td>
-<td width="50%" valign="top">
-
-### 📅 Event Management System
-
-Backend project for managing event-related data using a REST-style architecture.
-
-**Stack:** Node.js • Express • MongoDB • Mongoose
-
-</td>
-</tr>
-</table>
+> Repository links are intentionally omitted until the corresponding repositories are public and ready to represent the work.
 
 ---
 
-## 🧭 Current Learning Path
+## Learning path
 
 ```text
 Python
-  │
-  ├── FastAPI ───────┐
-  │                  │
-  └── Backend ───────┼──→ REST APIs ──→ Databases
-                     │
-Node.js / Express ───┘
-                              │
-                              ▼
-                     Applied AI / LLMs
+  ↓
+Backend fundamentals
+  ↓
+FastAPI
+  ↓
+REST APIs + authentication
+  ↓
+Databases + data modeling
+  ↓
+Testing + deployment
+  ↓
+AI / LLM integration
 ```
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=divyansiu&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansiu&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=divyansiu&theme=tokyonight&hide_border=true" />
-
-</div>
+The goal is not to collect technologies. It is to become capable of taking a real requirement from **idea → API → data → deployment → iteration**.
 
 ---
 
-## 📈 Contribution Activity
+## GitHub
 
-<div align="center">
+I prefer a profile that reflects the work itself rather than a dashboard of third-party widgets.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansiu&theme=tokyo-night&hide_border=true&area=true" width="96%" />
+My contribution activity, repositories, commits, and pinned projects below are the source of truth.
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/divyansiu/divyansiu/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
+**GitHub:** [@divyansiu](https://github.com/divyansiu)
 
 ---
 
-## 🎯 2026 Goals
+## Connect
 
-- [ ] Become strong with Python
-- [ ] Build production-style FastAPI APIs
-- [ ] Improve backend architecture
-- [ ] Strengthen SQL & MongoDB
-- [ ] Learn authentication & authorization
-- [ ] Deploy real backend projects
-- [ ] Integrate AI / LLM APIs into applications
-- [ ] Improve DSA fundamentals
-- [ ] Contribute to open source
-- [ ] Build a strong project portfolio
-
----
-
-## 📫 Connect
-
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/divyansiu">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace the LinkedIn URL below with your actual profile URL -->
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-11161C?style=flat-square&logo=github&logoColor=F3F5F7" alt="GitHub"/>
 </a>
 
 </div>
 
-<br>
+---
 
-<div align="center">
-
-### BUILD → DEBUG → LEARN → SHIP
-
-<sub>Always learning. Always building.</sub>
-
-</div>
+<sub>Building steadily. Learning in public. Improving one system at a time.</sub>
